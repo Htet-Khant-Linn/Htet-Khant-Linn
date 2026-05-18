@@ -1,16 +1,16 @@
-# Hi, I'm Htet Khant Linn 👋
+# Hi, I'm Htet Khant Linn
 
 **Data Science Student | M&E Assistant | Business Administration Associate**
 
 ---
 
-## 🧑‍🎓 About Me
+## About Me
 
 I am a Data Science student at Parami University, with an Associate Degree in Business Administration from the University of the People. I currently work part-time as an M&E Assistant at Impact Hub Yangon, supporting monitoring and evaluation for community projects.
 
 ---
 
-## 💻 Technical Skills
+## Technical Skills
 
 - **Programming:** Python, R, SQL
 - **Data Visualization:** Power BI
@@ -18,7 +18,7 @@ I am a Data Science student at Parami University, with an Associate Degree in Bu
 
 ---
 
-## 🚀 Project Experience
+## Project Experience
 
 - **ML Heros Team Member:**  
   Participated in a Machine Learning project, contributing to image labeling, model training and evaluation, and deploying a FastAPI app via Docker.  
@@ -26,18 +26,18 @@ I am a Data Science student at Parami University, with an Associate Degree in Bu
 
 ---
 
-## 📈 Professional Interests
+## Professional Interests
 
 I am passionate about Data Analytics and Business Analysis, and always eager to learn and apply new techniques to real-world problems.
 
 ---
 
-## 🎱 Personal Interests
+## Personal Interests
 
 Active learner, snooker enthusiast, and spicy food lover.
 
 ---
 
-## 🌐 Connect with Me
+## Connect with Me
 
 - [LinkedIn: htet-khant-linn](https://www.linkedin.com/in/htet-khant-linn/)
